@@ -1,0 +1,16 @@
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/payload/request/LoginRequest.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/security/services/UserDetailsServiceImpl.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/models/User.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/repository/UserRepository.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/repository/RoleRepository.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/LockBoxApplication.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/security/jwt/AuthTokenFilter.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/payload/response/JwtResponse.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/security/services/UserDetailsImpl.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/security/jwt/AuthEntryPointJwt.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/models/ERole.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/payload/response/MessageResponse.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/security/jwt/JwtUtils.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/security/WebSecurityConfig.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/models/Role.java
+/Users/mac/Documents/LockBox/src/main/java/com/LockBox/payload/request/SignupRequest.java
