@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      database: mydb
+      host: localhost
+      port: 27017
+
+# App Properties
+LockBox:
+  app:
+    jwtSecret: LockBoxSecretKey
+    jwtExpirationMs: 86400000
